@@ -2,7 +2,7 @@ function wallFollowSimple()
     clc;
     clear all;
 
-    %% CONNECT
+    %% CONNECT HERE IS MY EDIT
 clc
 clear all
 
